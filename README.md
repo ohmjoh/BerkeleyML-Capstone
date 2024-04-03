@@ -21,7 +21,7 @@ Can we predict the success of a startup based on its location, funding history, 
 The dataset used for this analysis contains information about various startups, including their location, funding history, and other relevant attributes.
 
 #### Methodology
-We'll follow these steps:
+I followed these steps:
 
 Data Cleaning and Preprocessing: Removed unnecessary columns and handled outliers in the 'avg_participants' column.
 Exploratory Data Analysis (EDA): Explored the distribution of the target variable, categorical variables, and continuous variables through visualizations.
@@ -47,9 +47,9 @@ Key features contributing to startup success, based on the Random Forest model, 
 #### Next steps
 Further analysis can be conducted to:
 
-Incorporate additional data sources
-Fine-tune the model parameters
-Explore advanced machine learning techniques
+- Incorporate additional data sources
+- Fine-tune the model parameters
+- Explore advanced machine learning techniques
 
 #### Outline of project
 
