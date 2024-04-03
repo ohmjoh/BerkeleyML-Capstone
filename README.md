@@ -2,6 +2,12 @@
 
 **Author: Min Jeong (MJ) Oh**
 
+This repo contains Capstone Project Part 1 from Berkeley Engineering & Berkeley Haas Professional Certificate in Machine Learning and Artificial Intelligence. This initial report and EDA, and more detailed report including the explanation of the data source will be followed in the Capstone Project Part 2.
+
+#### File Navigation
+A Jupyter notebook named "Startup Success Prediction.ipynb" contains the code for this analysis. startup_data.csv contains the data used for this analysis.
+
+
 #### Executive summary
 In this project, we aim to predict the success of startups based on various features such as location, funding rounds, funding amounts, and more. We'll utilize machine learning models to identify key factors contributing to startup success.
 
@@ -33,9 +39,9 @@ SVM Accuracy: 73.68%
 
 Key features contributing to startup success, based on the Random Forest model, include:
 
-Number of relationships
-Total funding amount in USD
-Age of the last funding year 
+- Number of relationships
+- Total funding amount in USD
+- Age of the last funding year 
 
 
 #### Next steps
